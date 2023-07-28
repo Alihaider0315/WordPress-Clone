@@ -11,7 +11,7 @@
   :root {
     --fontfamily-Gotham: "GothamBook";
     --fontfamily-Gotham-light: "GothamLight";
-    --text-yellow: #FF3131;
+    --text-yellow: #FF3131 !important;
   }
   body {
     font-family: "Poppins", sans-serif;
