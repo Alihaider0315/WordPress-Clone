@@ -1017,7 +1017,7 @@
     font-size: 18px;
     text-transform: uppercase;
     font-weight: 600;
-    background: #fee800;
+    background: #FF3131;
     color: #212121;
     padding: 8px 40px;
     margin: 0;
@@ -4408,7 +4408,7 @@
       padding: 0 0 30px 0;
     }
     footer > .container > .row > .col-sm-6:first-child {
-      background: #fee800;
+      background: #FF3131;
       padding-top: 50px;
       padding-bottom: 50px;
       margin-bottom: 20px;
@@ -5602,9 +5602,9 @@
     z-index: 1;
   }
   .getintouch.full {
-    background: #fee800 !important;
+    background: #FF3131 !important;
     border: 2px solid #000;
-    border-color: #fee800 !important;
+    border-color: #FF3131 !important;
   }
   .caseSlider-container .lSSlideOuter .lSPager.lSpg > li.active a {
     background-color: #000 !important;
@@ -5621,9 +5621,9 @@
   }
   .caseSlider-container ul.lSPager li a {
     display: block;
-    color: #fee800;
+    color: #FF3131;
     background: transparent;
-    border: 2px solid #fee800;
+    border: 2px solid #FF3131;
     width: 8px;
     height: 8px;
     font-size: 0;
@@ -5711,7 +5711,7 @@
       width: 35px;
       text-align: center;
       height: 35px;
-      border: 1px solid #fee800;
+      border: 1px solid #FF3131;
       border-radius: 50%;
       position: relative;
     }
@@ -5720,7 +5720,7 @@
       top: 50%;
       left: 50%;
       transform: translate(-50%, -50%);
-      color: #fee800;
+      color: #FF3131;
       font-size: 1.2rem;
     }
     .footer-widget-col {
@@ -21534,7 +21534,7 @@
   }
   :root {
     --fontfamily-Gotham: "GothamBook";
-    --text-yellow: #fee800;
+    --text-yellow: #FF3131;
   }
   @media (min-width: 1600px) {
     .container,
@@ -21672,7 +21672,7 @@
     font-size: 18px;
     text-transform: uppercase;
     font-weight: 600;
-    background: #fee800;
+    background: #FF3131;
     color: #212121;
     padding: 8px 40px;
     margin: 0;
@@ -21708,7 +21708,7 @@
   button.getintouch2:hover {
     border: solid 2px transparent;
     background: #000;
-    color: #fee800;
+    color: #FF3131;
     text-decoration: none;
   }
   .getintouch2:focus {
@@ -21735,15 +21735,15 @@
   button.getintouch-white:hover {
     border: solid 2px transparent;
     background: #000;
-    color: #fee800;
+    color: #FF3131;
     text-decoration: none;
   }
   .getintouch-white:focus {
     outline: 0;
   }
   button.getintouch-wy {
-    color: #fee800;
-    border: solid 2px #fee800;
+    color: #FF3131;
+    border: solid 2px #FF3131;
   }
   button.getintouch-wy {
     margin-top: 20px;
@@ -21760,8 +21760,8 @@
     background: transparent;
   }
   button.getintouch-wy:hover {
-    border: solid 2px #fee800;
-    background: #fee800;
+    border: solid 2px #FF3131;
+    background: #FF3131;
     color: #000;
     text-decoration: none;
   }
@@ -21784,9 +21784,9 @@
     text-decoration: none;
   }
   .btn-get-in-touch {
-    background: #fee800 !important;
+    background: #FF3131 !important;
     color: #000 !important;
-    border: 1px solid #fee800;
+    border: 1px solid #FF3131;
     font-family: "Poppins";
     font-weight: 700;
   }
@@ -22918,7 +22918,7 @@
       height: 50px;
       border-radius: 0;
       color: #000 !important;
-      background: #fee800 !important;
+      background: #FF3131 !important;
       font-size: 16px !important;
     }
     body .m-f-btns-2 .wmobilIcon {
